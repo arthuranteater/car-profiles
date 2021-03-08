@@ -1,3 +1,17 @@
+# Instructions for Class
+
+1. Create a form for adding new car data based off the car data provided, conditionally render card with info.
+
+2. Display the car data using the map function to iterate over the data and to render list.
+
+3. [Stretch] Create a favorites list, being able to view add and subtract from it.
+
+4. [Stretch] Add a sellers array with fake profile info on the made up sellers and create a link on each card to view seller info.
+
+## Don't spend much time on styling!
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
